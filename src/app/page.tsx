@@ -1,4 +1,4 @@
-import ScoreCounter from '/@components/ScoreCounter'
+import ScoreCounter from '@/components/ui/ScoreCounter'
 
 export default function Home() {
   return (
